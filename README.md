@@ -1,5 +1,6 @@
 # Feed-Reader-Testing
 Feed Reader Test for Udacity using Jasmine
+Many thanks to Dominik, /dominicom, for helping assist me with this project
 The following lists a scope of the project:
 
 # Project Overview
